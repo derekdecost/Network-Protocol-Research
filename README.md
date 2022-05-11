@@ -5,7 +5,7 @@ University of Massachusetts Lowell in 2022. This includes implementations of the
 network protocols using UDP sockets, and implementing each protocols functionalities based on publicly available standards,
 along with the procedures outlined in the required course textbook.
 
-All code functions using network loopback mode, communicating using IP address 127.0.0.1, but may be changed to allow for 
+All code functions using local loopback mode, communicating using IP address 127.0.0.1, but may be changed to allow for 
 communication between 2 networked devices. Data is tranferred from the "client_data" folder, to the "server_data" folder in each
 protocol's containing folder.
 
